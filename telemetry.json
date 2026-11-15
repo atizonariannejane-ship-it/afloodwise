@@ -1,0 +1,38 @@
+﻿{
+    "wholeNumber":  0,
+    "status":  "Status: Low / Safe Water Level",
+    "badgeText":  "Safe",
+    "color":  "#10b981",
+    "historyLogs":  [
+                        {
+                            "timestamp":  "08:48:33 PM",
+                            "value":  0,
+                            "badgeText":  "Safe",
+                            "color":  "#10b981"
+                        },
+                        {
+                            "timestamp":  "08:48:32 PM",
+                            "value":  0,
+                            "badgeText":  "Safe",
+                            "color":  "#10b981"
+                        },
+                        {
+                            "timestamp":  "08:48:31 PM",
+                            "value":  0,
+                            "badgeText":  "Safe",
+                            "color":  "#10b981"
+                        },
+                        {
+                            "timestamp":  "08:48:30 PM",
+                            "value":  0,
+                            "badgeText":  "Safe",
+                            "color":  "#10b981"
+                        },
+                        {
+                            "timestamp":  "08:48:29 PM",
+                            "value":  0,
+                            "badgeText":  "Safe",
+                            "color":  "#10b981"
+                        }
+                    ]
+}
